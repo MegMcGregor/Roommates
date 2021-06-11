@@ -1574,9 +1574,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\megmc\\workspace\\csharp\\Roomates\\Roomates.csproj",
-      "projectName": "Roomates",
-      "projectPath": "C:\\Users\\megmc\\workspace\\csharp\\Roomates\\Roomates.csproj",
+      "projectUniqueName": "C:\\Users\\megmc\\workspace\\csharp\\Roomates\\Roommates.csproj",
+      "projectName": "Roommates",
+      "projectPath": "C:\\Users\\megmc\\workspace\\csharp\\Roomates\\Roommates.csproj",
       "packagesPath": "C:\\Users\\megmc\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\megmc\\workspace\\csharp\\Roomates\\obj\\",
       "projectStyle": "PackageReference",

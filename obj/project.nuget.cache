@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vj71bK4SyxMfQ3jgSGdc2ap4BsgQ9MZ+9rpWIYh0tl9PC1Oi/fyarVQpsmuRnEFlypzPRDfi9fl3fiPP8k8qAA==",
+  "dgSpecHash": "gp5eEuKf7KtccNkRFRx2e8Zxzr5QCGj6i6Uq/mEqNpjbA0ip1acMs3hkr1+sNM7jqu7z5i9uW8LaKa4Hnw8+1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\megmc\\workspace\\csharp\\Roomates\\Roomates.csproj",
+  "projectFilePath": "C:\\Users\\megmc\\workspace\\csharp\\Roomates\\Roommates.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\megmc\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\megmc\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",
