@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Roommates.Models
+﻿namespace Roommates.Models
 {
     // C# representation of the Room table
     public class Room
@@ -13,4 +7,4 @@ namespace Roommates.Models
         public string Name { get; set; }
         public int MaxOccupancy { get; set; }
     }
-]
+}
